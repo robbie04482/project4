@@ -1,0 +1,6 @@
+1)because the Product[] holds the products and the int[]holds the sales of each product in quantity
+2)because the length is the maximum capacity of the array while productCount is how many there are now
+3)id is the personal id of each one while nextId has to be a static for it to be able to give a different id to each product
+4)because the stock can not be negative
+5)the problem is that anyone who calls the getter can after change it because it gives a pointer to the place in the memory
+6)continue is used to get going with the loop while not doing what is after it while break is used to stop completely the loop
